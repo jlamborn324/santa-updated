@@ -24,4 +24,6 @@ will pip install every dependency, and skip over the ones you already have. This
 
 ## Problem 
 
-![This isn't right!](https://gyazo.com/37ea663da9539e241d03c2cde0c6d703)
+![This isn't right!](machine_learning_bad.png)
+
+I suspect that my computer's specs have something to do with it. Certain libraries won't load for me because my computer isn't good enough. This issue is a work in progress. 

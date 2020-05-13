@@ -26,4 +26,4 @@ will pip install every dependency, and skip over the ones you already have. This
 
 ![This isn't right!](machine_learning_bad.png)
 
-I suspect that my computer's specs have something to do with it. Certain libraries won't load for me because my computer isn't good enough. This issue is a work in progress. 
+When I test the manhattant.png picture, I get back a clearly incorrect reading from the model. All other images I've tried so far work well. I suspect that my computer's specs have something to do with it. Certain libraries won't load for me because my computer isn't good enough, potentially making the model less accurate.  This issue is a work in progress. 

@@ -21,3 +21,7 @@ Download the requirements.txt and navigate into the directory containing it. The
 ```python -m pip install -r "requirements.txt"```  
   
 will pip install every dependency, and skip over the ones you already have. This is useful to check if you are missing any dependencies/have outdated versions. 
+
+## Problem 
+
+![This isn't right!](https://gyazo.com/37ea663da9539e241d03c2cde0c6d703)

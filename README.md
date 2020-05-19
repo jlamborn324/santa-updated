@@ -21,3 +21,9 @@ Download the requirements.txt and navigate into the directory containing it. The
 ```python -m pip install -r "requirements.txt"```  
   
 will pip install every dependency, and skip over the ones you already have. This is useful to check if you are missing any dependencies/have outdated versions. 
+
+## Problem 
+
+![This isn't right!](machine_learning_bad.png)
+
+When I test the manhattant.png picture, I get back a clearly incorrect reading from the model. All other images I've tried so far work well. I suspect that my computer's specs have something to do with it. Certain libraries won't load for me because my computer isn't good enough, potentially making the model less accurate.  This issue is a work in progress. 
